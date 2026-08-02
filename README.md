@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Project Management Platform
 
 A Kanban-based project management tool: role-based access (Admin / Manager /
@@ -105,3 +106,6 @@ Natural next steps, roughly in order of value:
    there's no email delivery on top of it yet.
 5. **Tests** — none included; the API routes are a natural place to start
    with integration tests against a test database.
+=======
+# epm-platform
+>>>>>>> 7beef08e7eeed27ed79bdfa77766f7e2a68412a9
